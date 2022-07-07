@@ -1,2 +1,2 @@
 # Notes
-All my notes
+All my notes with Obsidian
