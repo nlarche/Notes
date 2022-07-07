@@ -4,10 +4,10 @@
     "type": "split",
     "children": [
       {
-        "id": "e54b5c3630a2a3a5",
+        "id": "3d2eb5f215e5d677",
         "type": "leaf",
         "state": {
-          "type": "empty",
+          "type": "graph",
           "state": {}
         }
       }
@@ -82,6 +82,14 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e54b5c3630a2a3a5",
-  "lastOpenFiles": []
+  "active": "3d2eb5f215e5d677",
+  "lastOpenFiles": [
+    "README.md",
+    "The Clean Coder/professionalism.md",
+    "The Clean Coder/the-clean-coder.md",
+    "The.md",
+    "The Clean Coder/saying-no.md",
+    "fviysBv9QC-OLmmPUVE-Jw.md",
+    "The Clean Coder/know-your-field.md"
+  ]
 }
