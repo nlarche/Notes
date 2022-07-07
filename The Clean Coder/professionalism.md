@@ -41,9 +41,7 @@ Continuously shape and mold it
 
 books, formation, conférence, users group
 
-### Training
-
-#### kata
+### Training => kata
 
 each day: 
 10 min of kata to warm-up at the start of the day
