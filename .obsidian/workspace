@@ -7,12 +7,8 @@
         "id": "3d2eb5f215e5d677",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "The Clean Coder/saying-no.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Clean Coder/saying-no.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,13 +84,15 @@
   },
   "active": "3d2eb5f215e5d677",
   "lastOpenFiles": [
+    "Manifest Agile.md",
+    "TODO-LIST.md",
+    "VIM.md",
+    "The Clean Coder/saying-yes.md",
     "The Clean Coder/saying-no.md",
     "The Clean Coder/professionalism.md",
-    "Manifest Agile.md",
-    "The Clean Coder/know-your-field.md",
-    "README.md",
-    "The Clean Coder/the-clean-coder.md",
-    "The.md",
-    "fviysBv9QC-OLmmPUVE-Jw.md"
+    "The Clean Coder/_the-clean-coder.md",
+    "().md",
+    "Javascript/Regexp.md",
+    "The Clean Coder/know-your-field.md"
   ]
 }
