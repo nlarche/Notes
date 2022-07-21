@@ -7,8 +7,12 @@
         "id": "3d2eb5f215e5d677",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Javascript/Some cheat.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Javascript/Some cheat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,15 +89,15 @@
   },
   "active": "3d2eb5f215e5d677",
   "lastOpenFiles": [
-    "Manifest Agile.md",
-    "TODO-LIST.md",
-    "VIM.md",
-    "The Clean Coder/saying-yes.md",
-    "The Clean Coder/saying-no.md",
-    "The Clean Coder/professionalism.md",
-    "The Clean Coder/_the-clean-coder.md",
-    "().md",
+    "Javascript/index.js.md",
     "Javascript/Regexp.md",
-    "The Clean Coder/know-your-field.md"
+    "TODO-LIST.md",
+    "The Clean Coder/TDD.md",
+    "The Clean Coder/_the-clean-coder.md",
+    "The Clean Coder/coding.md",
+    "The Clean Coder/professionalism.md",
+    "The Clean Coder/know-your-field.md",
+    "event-loop.png.md",
+    "Manifest Agile.md"
   ]
 }
