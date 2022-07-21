@@ -45,7 +45,7 @@ books, formation, conférence, users group
 
 each day: 
 10 min of kata to warm-up at the start of the day
-10 min of kata to cool-down at the en of the day
+10 min of kata to cool-down at the end of the day
 
 ### Collaboration
 
