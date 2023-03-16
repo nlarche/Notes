@@ -42,9 +42,93 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "125d6c284c1ae32c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fine grained reactivity/Reactivity history.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eed1071dc54c6b43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fine grained reactivity/Solid.js.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7fa77a4b4f320888",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fine grained reactivity/Data-Binding.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "44d2a4c7cd98c161",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fine grained reactivity/Signals.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "106b5ef885f8097b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fine grained reactivity/Signals.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "88af2c6e7a44cb28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fine grained reactivity/Solid.js.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "30275e5da58e6e1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Katas.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -73,7 +157,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "react",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO-LIST.md",
+                "file": "Fine grained reactivity/Solid.js.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,17 +213,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "75f592a8c5eb45d1",
+  "active": "88af2c6e7a44cb28",
   "lastOpenFiles": [
-    "The Clean Coder/Acceptance Testing.md",
-    "Javascript/Some cheat.md",
-    "Javascript/index.js.md",
-    "Katas.md",
-    "The Clean Coder/_the-clean-coder.md",
-    "conf/Coupable de code legacy en JS.md",
-    "DDD/Example mapping.md",
-    "DDD/Screenshot 2022-09-15 at 15.12.57.png",
-    "Javascript/Screenshot 2022-09-15 at 15.03.35.png",
-    "DDD/Screenshot 2022-08-02 at 11.50.47.png"
+    "Fine grained reactivity/Signals.md",
+    "Fine grained reactivity/Solid.js.md",
+    "Fine grained reactivity/Reactivity history.md",
+    "Reactive History.md",
+    "Fine grained reactivity/Reactive Library.md",
+    "Fine grained reactivity/Mobx.md",
+    "Fine grained reactivity/Data-Binding.md",
+    "Data_Binding.md",
+    "data.md",
+    "Fine grained reactivity/React.md"
   ]
 }
